@@ -333,6 +333,9 @@ https://dev.to/vlythr/using-git-and-github-basic-funtions-easy-3ig5
 
 https://docs.github.com/en
 
+https://learn.microsoft.com/en-us/visualstudio/windows/?view=vs-2022
+
+
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
